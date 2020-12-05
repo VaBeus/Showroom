@@ -1,0 +1,25 @@
+
+.he{
+     display: inline;
+}
+.footer{
+    display: inline;
+    height: 15px;
+}
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+
+}
+.flexbox__item{
+    max-width: 500;
+    max-height: 500;
+    padding: 5px;
+}
+.h22{
+    padding: 35px; 
+    color: rgb(82, 123, 158); 
+   
+}
